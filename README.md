@@ -2,7 +2,7 @@
 
 *Passion for machine learning and making learning more accessible to others.*
 
-[Email](mailto:tlzhu@alumni.cmu.edu) / [LinkedIn](linkedin.com/in/tiffany-zhu1) / [GitHub](github.com/tlzhu19)
+📧 [Email](mailto:tlzhu@alumni.cmu.edu) / ![](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](linkedin.com/in/tiffany-zhu1) / ![](https://i.stack.imgur.com/tskMh.png) [GitHub](github.com/tlzhu19)
 
 ### 👩🏼‍🎓 Education
 
