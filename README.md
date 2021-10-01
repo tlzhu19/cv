@@ -34,7 +34,7 @@ BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie 
 
 ---
 
-### 👩🏼‍💻 Technical Experience
+### 👩🏼‍💻 Work Experience
 
 **Cognitive Developer** @ [IBM](https://www.ibm.com/) | June 2020 - present
 * Optimize cement production in a factory. Use models to predict targets that help determine factory efficiency. The models are used in the optimization system, for every change in the control variables, the predicted targets are optimized. Project helped autonomize a factory and is used as a template for other factories. 
