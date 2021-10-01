@@ -4,11 +4,15 @@
 
 📧 [Email](mailto:tlzhu@alumni.cmu.edu) / ![](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](linkedin.com/in/tiffany-zhu1) / ![](https://i.stack.imgur.com/tskMh.png) [GitHub](github.com/tlzhu19)
 
+---
+
 ### 👩🏼‍🎓 Education
 
 MS in Data Science @ [Columbia University](https://www.columbia.edu/) | Aug 2019 - Dec 2020
 
 BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie Mellon University](https://www.cmu.edu) | Sept 2013 - May 2017
+
+---
 
 ### 🔧 Technologies & Tools
 
@@ -27,6 +31,8 @@ BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=red)
+
+---
 
 ### 👩🏼‍💻 Technical Experience
 
@@ -47,6 +53,8 @@ BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie 
 
 **Software Engineering Intern** @ [NASA](https://www.nasa.gov/) | May - Aug 2016 | *Kennedy Space Center, FL*
 * Worked with a team of engineers and scientists to create a software tool using Python to automate the generation of Virtual Machine Language (VML) commands based on queries from the Master Measurement List Database stored on a Django web application. Used for the RESOLVE Payload for the [Resource Prospector Lunar Volatiles Mission](https://www.nasa.gov/resource-prospector).
+
+---
 
 ## 📊 Projects/Research
 
