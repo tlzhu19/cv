@@ -2,6 +2,8 @@
 
 *Passion for machine learning and making learning more accessible to others.*
 
+[Email](mailto:tlzhu@alumni.cmu.edu) / [LinkedIn](linkedin.com/in/tiffany-zhu1) / [GitHub](github.com/tlzhu19)
+
 ### 👩🏼‍🎓 Education
 
 * Columbia University - MS in Data Science | Aug 2019 - Dec 2020
