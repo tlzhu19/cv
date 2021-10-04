@@ -11,9 +11,8 @@ layout: default
 
 ## 👩🏼‍🎓 Education
 
-MS in Data Science @ [Columbia University](https://www.columbia.edu/) | Aug 2019 - Dec 2020
-
-BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie Mellon University](https://www.cmu.edu) | Sept 2013 - May 2017
+| MS in Data Science @ [Columbia University](https://www.columbia.edu/) | Aug 2019 - Dec 2020 |
+| BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie Mellon University](https://www.cmu.edu) | Sept 2013 - May 2017|
 
 ---
 
