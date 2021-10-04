@@ -1,4 +1,4 @@
-# Tiffany Zhu's CV
+# 💻👾🚀 Tiffany Zhu's CV
 
 ## Contact
 
@@ -37,11 +37,13 @@
 
 **Cognitive Developer** @ [IBM](https://www.ibm.com/) | June 2020 - present
 * Optimize cement production for a factory. Use models to predict targets that help determine factory efficiency. The models are used in the optimization system, for every change in the control variables, the predicted targets are optimized. Project helped autonomize a factory and is used as a template for other factories. 
+  * *Technology stack*: IBM Cloud, Python (Pandas for data cleaning, Scikit Learn for modeling, IBM research's SROM for optimization)
 * Develop research application to expand domain specific text training data. User can give continuous input to train model that extracts documents from Wikipedia and selects which are relevant.
+  * *Technology stack*: Python Flask (backend), React (frontend)
 * Create lessons and practice labs for Data Analysis with R and Data Visualization with R on [Coursera](https://www.coursera.org/instructor/tiffanyzhu).
 * Deployed a Python Flask web application using IBM Cloud Foundry to demonstrate industry use cases of datasets from CODAIT’s Data Asset Exchange (DAX). [Comments organizer](https://community.ibm.com/accelerators/catalog/content/Customer-Online-Comments-Organizer) helps companies better organize their comments by providing them a central place to 
   1. Import comments, 
-  2. Automatically group comments using KMeans
+  2. Automatically group comments using KMeans (model from Scikit learn and is deployed using Watson Machine Learning)
   3. Analyze the sentiment of comments as a whole and by sentence,
   4. Visualize frequently used words and comment sentiments.
 
