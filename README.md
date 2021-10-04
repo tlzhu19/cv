@@ -1,6 +1,3 @@
----
-layout: default
----
 # Tiffany Zhu's CV
 
 ## Contact
