@@ -1,4 +1,4 @@
-# 💻👾🚀 Tiffany Zhu's CV
+# 💻👾🚀 Tiffany Zhu
 
 # 👋 Contact
 
