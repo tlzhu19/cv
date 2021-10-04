@@ -1,12 +1,10 @@
-## Tiffany L Zhu
-
-*Passion for machine learning and making learning more accessible to others.*
+## Contact
 
 📧 [Email](mailto:tlzhu@alumni.cmu.edu) / ![](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](linkedin.com/in/tiffany-zhu1) / ![](https://i.stack.imgur.com/tskMh.png) [GitHub](github.com/tlzhu19)
 
 ---
 
-### 👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education
 
 MS in Data Science @ [Columbia University](https://www.columbia.edu/) | Aug 2019 - Dec 2020
 
@@ -14,7 +12,7 @@ BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie 
 
 ---
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
@@ -34,10 +32,10 @@ BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie 
 
 ---
 
-### 👩🏼‍💻 Work Experience
+## 👩🏼‍💻 Work Experience
 
 **Cognitive Developer** @ [IBM](https://www.ibm.com/) | June 2020 - present
-* Optimize cement production in a factory. Use models to predict targets that help determine factory efficiency. The models are used in the optimization system, for every change in the control variables, the predicted targets are optimized. Project helped autonomize a factory and is used as a template for other factories. 
+* Optimize cement production for a factory. Use models to predict targets that help determine factory efficiency. The models are used in the optimization system, for every change in the control variables, the predicted targets are optimized. Project helped autonomize a factory and is used as a template for other factories. 
 * Develop research application to expand domain specific text training data. User can give continuous input to train model that extracts documents from Wikipedia and selects which are relevant.
 * Create lessons and practice labs for Data Analysis with R and Data Visualization with R on [Coursera](https://www.coursera.org/instructor/tiffanyzhu).
 * Deployed a Python Flask web application using IBM Cloud Foundry to demonstrate industry use cases of datasets from CODAIT’s Data Asset Exchange (DAX). [Comments organizer](https://community.ibm.com/accelerators/catalog/content/Customer-Online-Comments-Organizer) helps companies better organize their comments by providing them a central place to 
