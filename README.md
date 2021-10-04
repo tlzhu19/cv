@@ -1,19 +1,19 @@
 # 💻👾🚀 Tiffany Zhu's CV
 
-## 👋 Contact
+# 👋 Contact
 
 📧 [Email](mailto:tlzhu@alumni.cmu.edu) / ![](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](linkedin.com/in/tiffany-zhu1) / ![](https://i.stack.imgur.com/tskMh.png) [GitHub](github.com/tlzhu19)
 
 ---
 
-## 👩🏼‍🎓 Education
+# 👩🏼‍🎓 Education
 
 | MS in Data Science @ [Columbia University](https://www.columbia.edu/) | Aug 2019 - Dec 2020 |
 | BS in Mathematical Sciences (Statistics), Minor in Computer Science @ [Carnegie Mellon University](https://www.cmu.edu) | Sept 2013 - May 2017|
 
 ---
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
@@ -33,7 +33,7 @@
 
 ---
 
-## 👩🏼‍💻 Work Experience
+# 👩🏼‍💻 Work Experience
 
 ### **Cognitive Developer** @ [IBM](https://www.ibm.com/)
 **June 2020 - present**
@@ -60,9 +60,9 @@
 
 ---
 
-## 📊 Projects/Research
+# 📊 Projects/Research
 
-### ** EPA text classification and scoring**
+### EPA text classification and scoring
 **Spring 2020 | Columbia University Vagelos College of Physicians and Surgeon | Mentors: Dr. Henry Park, Dr. Anhphan Ly**
 * Research objective: Automate medical student evaluations (Entrustable Professional Activities or EPAs) and competency checks to reduce the hours of tedious labor doctors could otherwise be spending their time on
 * Fitted Long Short-term Memory (LSTM) model using Tensorflow and XGBoost model to conduct classification and sentiment analysis on EPAs (used to evaluate medical students)
