@@ -1,3 +1,8 @@
+---
+layout: default
+---
+# Tiffany Zhu's CV
+
 ## Contact
 
 📧 [Email](mailto:tlzhu@alumni.cmu.edu) / ![](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](linkedin.com/in/tiffany-zhu1) / ![](https://i.stack.imgur.com/tskMh.png) [GitHub](github.com/tlzhu19)
