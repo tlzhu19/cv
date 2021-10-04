@@ -62,9 +62,9 @@
 
 ## 📊 Projects/Research
 
-### **Entrustable Professional Activities (EPAs) text classification and scoring** |
+### ** EPA text classification and scoring**
 **Spring 2020 | Columbia University Vagelos College of Physicians and Surgeon | Mentors: Dr. Henry Park, Dr. Anhphan Ly**
-* Research objective: Automate medical student evaluations and competency checks to reduce the hours of tedious labor doctors could otherwise be spending their time on
+* Research objective: Automate medical student evaluations (Entrustable Professional Activities or EPAs) and competency checks to reduce the hours of tedious labor doctors could otherwise be spending their time on
 * Fitted Long Short-term Memory (LSTM) model using Tensorflow and XGBoost model to conduct classification and sentiment analysis on EPAs (used to evaluate medical students)
 
 ### **[Recommender Systems for Businesses on Yelp](github.com/tlzhu19/personalization-final-project)**
