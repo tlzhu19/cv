@@ -35,7 +35,7 @@
 
 ## 👩🏼‍💻 Work Experience
 
-**Cognitive Developer** @ [IBM](https://www.ibm.com/) | June 2020 - present
+### **Cognitive Developer** @ [IBM](https://www.ibm.com/) | June 2020 - present
 * Optimize cement production for a factory. Use models to predict targets that help determine factory efficiency. The models are used in the optimization system, for every change in the control variables, the predicted targets are optimized. Project helped autonomize a factory and is used as a template for other factories. 
   * *Technology stack*: IBM Cloud, Python (Pandas for data cleaning, Scikit Learn for modeling, IBM research's SROM for optimization)
 * Develop research application to expand domain specific text training data. User can give continuous input to train model that extracts documents from Wikipedia and selects which are relevant.
@@ -47,24 +47,24 @@
   3. Analyze the sentiment of comments as a whole and by sentence,
   4. Visualize frequently used words and comment sentiments.
 
-**Software Engineer** @ [EAB](https://eab.com/) | July 2017 - July 2019 | *Washington, DC*
+### **Software Engineer** @ [EAB](https://eab.com/) | July 2017 - July 2019 | *Washington, DC*
 * Developed a rule-based degree audit engine with a team of engineers using Python/Django to help college students track their academic progress. Used ANTLR to create our own grammar and parse rules to map to our abstract syntax tree (AST).
 * Automated the degree audit report generation framework. Used Redis Queue (RQ) to asynchronize (queue and process in the background) reports, making it faster to analyze audits and onboard new colleges to our system. 
 * Spearheaded project to emulate a new degree audit system that used various relational database tables to create rules rather than parsing text files.
 
-**Software Engineering Intern** @ [NASA](https://www.nasa.gov/) | May - Aug 2016 | *Kennedy Space Center, FL*
+### **Software Engineering Intern** @ [NASA](https://www.nasa.gov/) | May - Aug 2016 | *Kennedy Space Center, FL*
 * Worked with a team of engineers and scientists to create a software tool using Python to automate the generation of Virtual Machine Language (VML) commands based on queries from the Master Measurement List Database stored on a Django web application. Used for the RESOLVE Payload for the [Resource Prospector Lunar Volatiles Mission](https://www.nasa.gov/resource-prospector).
 
 ---
 
 ## 📊 Projects/Research
 
-**Entrustable Professional Activities (EPAs) text analytics classification and scoring** | Spring 2020
+### **Entrustable Professional Activities (EPAs) text analytics classification and scoring** | Spring 2020
 * Columbia University Vagelos College of Physicians and Surgeon, Dr. Henry Park, Dr. Anhphan Ly
 * Research objective: Automate medical student evaluations and competency checks to reduce the hours of tedious labor doctors could otherwise be spending their time on
 * Fitted Long Short-term Memory (LSTM) model using Tensorflow and XGBoost model to conduct classification and sentiment analysis on EPAs (used to evaluate medical students)
 
-**[Recommender Systems for Businesses on Yelp](github.com/tlzhu19/personalization-final-project)** | Fall 2019
+### **[Recommender Systems for Businesses on Yelp](github.com/tlzhu19/personalization-final-project)** | Fall 2019
 * Used Yelp dataset and Python to implement various models to predict the last review of each active user (users who rated at least 5 businesses). 
 * Worked with a team to implement a learned bias baseline model (took average ratings of users and businesses), as well as SVD, nonnegative matrix factorization, and wide and deep models. 
 * Evaluated models using RMSE and catalog coverage to analyze improvements compared to the baseline.
