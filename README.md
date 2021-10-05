@@ -67,7 +67,7 @@
 * Research objective: Automate medical student evaluations (Entrustable Professional Activities or EPAs) and competency checks to reduce the hours of tedious labor doctors could otherwise be spending their time on
 * Fitted Long Short-term Memory (LSTM) model using Tensorflow and XGBoost model to conduct classification and sentiment analysis on EPAs (used to evaluate medical students)
 
-### **[Recommender Systems for Businesses on Yelp](github.com/tlzhu19/personalization-final-project)**
+### **[Recommender Systems for Businesses on Yelp](https://github.com/tlzhu19/personalization-final-project)**
 **Fall 2019 | Columbia University Data Science Institute**
 * Used Yelp dataset and Python to implement various models to predict the last review of each active user (users who rated at least 5 businesses). 
 * Worked with a team to implement a learned bias baseline model (took average ratings of users and businesses), as well as SVD, nonnegative matrix factorization, and wide and deep models. 
