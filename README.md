@@ -37,7 +37,7 @@
 
 ### **Cognitive Developer** @ [IBM](https://www.ibm.com/)
 **June 2020 - present**
-* Optimize cement production for a factory. Use models to predict targets that help determine factory efficiency. The models are used in the optimization system, for every change in the control variables, the predicted targets are optimized. Project helped autonomize a factory and is used as a template for other factories. 
+* Optimized manufacturing production process, collaborating with team of data scientists and engineers. Trained and evaluated linear regression models and neural networks to predict targets that measure factory efficiency. The models are fed into the optimization system, for every change in the control variables, the predicted targets are optimized. Project helped autonomize a factory and increase production. 
   * *Technology stack*: IBM Cloud, Python (Pandas for data cleaning, Scikit Learn for modeling, IBM research's SROM for optimization)
 * Develop research application to expand domain specific text training data. User can give continuous input to train model that extracts documents from Wikipedia and selects which are relevant.
   * *Technology stack*: Python Flask (backend), React (frontend)
@@ -49,8 +49,8 @@
   4. Visualize frequently used words and comment sentiments.
 
 ### **Software Engineer** @ [EAB](https://eab.com/)
-**Full Time | July 2017 - July 2019 | Washington, DC**
-* Developed a rule-based degree audit engine with a team of engineers using Python/Django to help college students track their academic progress. Used ANTLR to create our own grammar and parse rules to map to our abstract syntax tree (AST).
+**July 2017 - July 2019 | Washington, DC**
+* Developed a rule-based degree audit engine with a team of software engineers using Python/Django to help college students track their academic progress. Used ANTLR to create our own grammar and parse rules to map to our abstract syntax tree (AST).
 * Automated the degree audit report generation framework. Used Redis Queue (RQ) to asynchronize (queue and process in the background) reports, making it faster to analyze audits and onboard new colleges to our system. 
 * Spearheaded project to emulate a new degree audit system that used various relational database tables to create rules rather than parsing text files.
 
