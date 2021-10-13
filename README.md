@@ -37,16 +37,18 @@
 
 ### **Cognitive Developer** @ [IBM](https://www.ibm.com/)
 **June 2020 - present**
-* Optimized manufacturing production process, collaborating with team of data scientists and engineers. Trained and evaluated linear regression models and neural networks to predict targets that measure factory efficiency. The models are fed into the optimization system, for every change in the control variables, the predicted targets are optimized. Project helped autonomize a factory and increase production. 
+* Optimized manufacturing production process, collaborating with a team of data scientists and engineers. Trained and evaluated linear regression models and neural networks to predict targets that measure factory efficiency. The models are fed into the optimization system where for every change in the control variables, the predicted targets are optimized. The system autonomized the factory and increased the production. 
   * *Technology stack*: IBM Cloud, Python (Pandas for data cleaning, Scikit Learn for modeling, IBM research's SROM for optimization)
-* Develop research application to expand domain specific text training data. User can give continuous input to train model that extracts documents from Wikipedia and selects which are relevant.
+* Developed a research NLP application with Python Flask (backend) and React (front end) to 1. train a domain specific named entity recognition (NER) model and 2. expand domain specific text training data using a feedback loop. For the second task, the user can give continuous input to train a classification model that extracts documents from Wikipedia and classifies which are relevant to the domain.
   * *Technology stack*: Python Flask (backend), React (frontend)
-* Create lessons and practice labs for Data Analysis with R and Data Visualization with R on [Coursera](https://www.coursera.org/instructor/tiffanyzhu).
+* Preprocessed insider trading data and created aggregated features per day with Pandas. Trained XGBoost and SVM regression models to predict the risk of insider trading and other fraudulent activities. Deployed the model with IBM Cloud and developed R Shiny dashboard to display important insights from the data and the model.
+  * *Technology stack*: IBM Cloud, Python (Pandas, Scikit Learn), R Shiny for dashboard
 * Deployed a Python Flask web application using IBM Cloud Foundry to demonstrate industry use cases of datasets from CODAIT’s Data Asset Exchange (DAX). [Comments organizer](https://community.ibm.com/accelerators/catalog/content/Customer-Online-Comments-Organizer) helps companies better organize their comments by providing them a central place to 
   1. Import comments, 
   2. Automatically group comments using KMeans (model from Scikit learn and is deployed using Watson Machine Learning)
   3. Analyze the sentiment of comments as a whole and by sentence,
   4. Visualize frequently used words and comment sentiments.
+* Create lessons and practice labs for Data Analysis with R and Data Visualization with R on [Coursera](https://www.coursera.org/instructor/tiffanyzhu).
 
 ### **Software Engineer** @ [EAB](https://eab.com/)
 **July 2017 - July 2019 | Washington, DC**
@@ -64,7 +66,7 @@
 
 ### EPA text classification and scoring
 **Spring 2020 | Columbia University Vagelos College of Physicians and Surgeon | Mentors: Dr. Henry Park, Dr. Anhphan Ly**
-* Research objective: Automate medical student evaluations (Entrustable Professional Activities or EPAs) and competency checks to reduce the hours of tedious labor doctors could otherwise be spending their time on
+* Automated medical student evaluations and competency checks (EPAs) to reduce the hours of tedious labor doctors could otherwise be spending their time on.
 * Fitted Long Short-term Memory (LSTM) model using Tensorflow and XGBoost model to conduct classification and sentiment analysis on EPAs (used to evaluate medical students)
 
 ### **[Recommender Systems for Businesses on Yelp](https://github.com/tlzhu19/personalization-final-project)**
@@ -72,3 +74,12 @@
 * Used Yelp dataset and Python to implement various models to predict the last review of each active user (users who rated at least 5 businesses). 
 * Worked with a team to implement a learned bias baseline model (took average ratings of users and businesses), as well as SVD, nonnegative matrix factorization, and wide and deep models. 
 * Evaluated models using RMSE and catalog coverage to analyze improvements compared to the baseline.
+
+### Capstone - Energy Efficient Machine Learning on the Edge
+**Fall 2020 | Columbia University Data Science Institute**
+* Collaborating with researchers at General Electric (GE), explored ways to make machine learning more carbon efficient by using various quantization methods on training data at different bit precision levels. 
+* Modularized quantization methods (fixed, quantiles, stochastic methods) with Python to easily apply on different datasets.
+* Ran quantized data on various machine learning models and compared results at different bit precision levels.
+* Evaluated significance of different quantization methods using paired t-test. Used the  accuracy of a model trained with a certain quantization method against another quantization method to run tests.
+
+
